@@ -4,7 +4,7 @@ export default function Landing() {
   return (
     <div className="bg-white">
 
-      {/* ================= HERO SECTION ================= */}
+      {/* ================= HERO SECTION =================   */}
       <section className="bg-gradient-to-b from-gray-50 to-white">
         <div className="max-w-6xl mx-auto px-6 py-28 grid md:grid-cols-2 gap-14 items-center">
           
