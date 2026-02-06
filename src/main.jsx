@@ -6,6 +6,7 @@ import "./app.css";
 import { AuthProvider } from "./context/AuthContext";
 import { Toaster } from "react-hot-toast";
 
+
 import Landing from "./pages/Landing";
 import City from "./pages/City";
 import Area from "./pages/Area";
